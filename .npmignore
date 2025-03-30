@@ -2,5 +2,5 @@
 /src
 .env
 .DS_Store
-tscongif.json
+tsconfig.json
 tsup.config.ts

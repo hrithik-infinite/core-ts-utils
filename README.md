@@ -1,6 +1,6 @@
 # core-ts-utils
 
-[![npm version](https://badge.fury.io/js/core-ts-utils.svg)](https://www.npmjs.com/package/core-ts-utils)
+[![npm version](https://img.shields.io/npm/v/core-ts-utils.svg)](https://www.npmjs.com/package/core-ts-utils)
 
 A collection of commonly used TypeScript utility functions like debounce, throttle, curry, deepClone, and more.
 

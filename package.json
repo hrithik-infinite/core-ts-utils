@@ -1,6 +1,6 @@
 {
   "name": "core-ts-utils",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Commonly used utilities in JS and TS",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -13,8 +13,20 @@
     "url": "https://github.com/hrithik-infinite/core-ts-utils"
   },
   "keywords": [
+    "typescript",
+    "utilities",
+    "utility-functions",
+    "common-utils",
     "debounce",
-    "throttle"
+    "throttle",
+    "curry",
+    "deep-clone",
+    "flatten-array",
+    "memoization",
+    "performance",
+    "functional-programming",
+    "javascript",
+    "npm-package"
   ],
   "author": "Hrithik Agarwal",
   "license": "MIT",
