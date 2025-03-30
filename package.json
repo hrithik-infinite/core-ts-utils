@@ -2,13 +2,25 @@
   "name": "core-ts-utils",
   "version": "0.0.1",
   "description": "Commonly used utilities in JS and TS",
-  "main": "index.ts",
-  "module": "index.ts",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "module": "./dist/index.mjs",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsup"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hrithik-infinite/core-ts-utils"
+  },
+  "keywords": [
+    "debounce",
+    "throttle"
+  ],
   "author": "Hrithik Agarwal",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "devDependencies": {
+    "tsup": "^8.4.0",
+    "typescript": "^5.8.2"
+  }
 }
