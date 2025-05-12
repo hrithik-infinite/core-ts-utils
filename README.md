@@ -134,7 +134,7 @@ Contributions are welcome! Feel free to open issues and submit pull requests.
 
 ## License
 
-This project is licensed under the ISC License.
+This project is licensed under the MIT License.
 
 ## Author
 
@@ -142,5 +142,5 @@ Developed by [Hrithik Agarwal](https://github.com/hrithik-infinite).
 
 ## Contact
 
-- **LinkedIn**: [Hrithik Agarwal](https://www.linkedin.com/in/hrithik-infinite/)
+- **LinkedIn**: [Hrithik Agarwal](https://www.linkedin.com/in/hrithikagarwal/)
 - **Email**: [hrithikinfinite@gmail.com](mailto:hrithikinfinite@gmail.com)

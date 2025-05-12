@@ -9,5 +9,14 @@ import sleep from "./sleep";
 import flatten from "./flatten";
 import capitalize from "./capitalize";
 import isEmpty from "./isEmpty";
-
-export { debounce, throttle, curry, memoize, once, deepClone, randomId, sleep, flatten, capitalize, isEmpty };
+import chunk from "./chunk";
+import groupBy from "./groupBy";
+import omit from "./omit";
+import pick from "./pick";
+import merge from "./merge";
+import uniqueBy from "./uniqueBy";
+import camelCase from "./camelCase";
+import kebabCase from "./kebabCase";
+import snakeCase from "./snakeCase";
+import truncate from "./truncate";
+export { debounce, throttle, curry, memoize, once, deepClone, randomId, sleep, flatten, capitalize, isEmpty, chunk, groupBy, omit, pick, merge, uniqueBy, camelCase, kebabCase, snakeCase, truncate };
