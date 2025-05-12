@@ -78,3 +78,11 @@ import {
 ## License
 
 MIT © [Hrithik Agarwal](https://github.com/hrithik-infinite)
+## Author
+
+Developed by [Hrithik Agarwal](https://github.com/hrithik-infinite).
+
+## Contact
+
+- **LinkedIn**: [Hrithik Agarwal](https://www.linkedin.com/in/hrithikagarwal/)
+- **Email**: [hrithikinfinite@gmail.com](mailto:hrithikinfinite@gmail.com)
