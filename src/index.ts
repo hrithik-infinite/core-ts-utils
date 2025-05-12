@@ -19,4 +19,52 @@ import camelCase from "./camelCase";
 import kebabCase from "./kebabCase";
 import snakeCase from "./snakeCase";
 import truncate from "./truncate";
-export { debounce, throttle, curry, memoize, once, deepClone, randomId, sleep, flatten, capitalize, isEmpty, chunk, groupBy, omit, pick, merge, uniqueBy, camelCase, kebabCase, snakeCase, truncate };
+import template from "./template";
+import compose from "./compose";
+import pipe from "./pipe";
+import partial from "./partial";
+import isEmail from "./isEmail";
+import isURL from "./isURL";
+import isNumeric from "./isNumeric";
+import cookies from "./cookies";
+import storage from "./storage";
+import queryParams from "./queryParams";
+import retry from "./retry";
+import promisify from "./promisisfy";
+import parallel from "./parallel";
+export {
+  debounce,
+  throttle,
+  curry,
+  memoize,
+  once,
+  deepClone,
+  randomId,
+  sleep,
+  flatten,
+  capitalize,
+  isEmpty,
+  chunk,
+  groupBy,
+  omit,
+  pick,
+  merge,
+  uniqueBy,
+  camelCase,
+  kebabCase,
+  snakeCase,
+  truncate,
+  template,
+  compose,
+  pipe,
+  partial,
+  isEmail,
+  isURL,
+  isNumeric,
+  cookies,
+  storage,
+  queryParams,
+  retry,
+  promisify,
+  parallel
+};
