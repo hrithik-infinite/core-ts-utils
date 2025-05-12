@@ -1,6 +1,6 @@
 {
   "name": "core-ts-utils",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "Commonly used utilities in JS and TS",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
